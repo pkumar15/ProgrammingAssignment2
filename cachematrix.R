@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## R programming week 3 assignment
 
 ## make cache matrix 
 
